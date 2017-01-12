@@ -1,0 +1,2 @@
+# hrdresource
+aplikasi HRD Sederhana
